@@ -3,3 +3,4 @@
 # LogCode + Description List
 
 ZCZC W00 10 L03 Github related
+ZCZC W00 5 L10 Assignment #00
