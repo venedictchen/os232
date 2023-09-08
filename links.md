@@ -2,6 +2,8 @@
 permalink: LINKS/
 ---
 
+# LINKS
+
 1. [The 4 GIT MANTRAS](https://osp4diss.vlsm.org/osp-119.html)<br>
 4 main GIT MANTRAS for OS like pull, add, commit, push.
 
