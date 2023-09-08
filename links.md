@@ -14,6 +14,6 @@ Generate public/private rsa key pair.
 4. [Put Public Key](https://osp4diss.vlsm.org/osp-111.html)<br>
 Put a public Key at Github.
 
-5. [Adding username] (https://doit.vlsm.org/022.html)<br>
+5. [Adding username](https://doit.vlsm.org/022.html)<br>
 Adding user at localhost.
 
