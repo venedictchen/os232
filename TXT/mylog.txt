@@ -16,4 +16,10 @@ ZCZC W01 180 L11 Doing Assignment #01
 ZCZC W01 10 L04 Updating Github Page
 ZCZC W01 120 Reading Silberschatz
 ZCZC W01 40 L05 Quiz Preparation including reading Powerpoint
-ZCZC W01 15 L05 Quiz 1 Week 1 Quiz 1
+ZCZC W01 15 L05 Quiz 1 Week 1
+ZCZC W02 100 L02 Class 1 Week 2
+ZCZC W02 60 Reading Silberschatz
+ZCZC W02 100 L02 Class 2 Week 2
+ZCZC W02 40 L05 Quiz Preparation including reading Powerpoint
+ZCZC W02 20 L05 Quiz 1 Week 2
+ZCZC W02 180 L11 Doing Assignment #02
