@@ -19,3 +19,9 @@ Put a public Key at Github.
 5. [Adding username](https://doit.vlsm.org/022.html)<br>
 Adding user at localhost.
 
+6. [Vim Cheatsheet](https://vim.rtorr.com)<br>
+Learning Vim Command.
+
+7. [Linux Tutorial](https://www.youtube.com/watch?v=BMGixkvJ-6w)<br>
+Linus Tutorial on Youtube. I think it's pretty fun to learn linux here.
+
