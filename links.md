@@ -23,5 +23,14 @@ Adding user at localhost.
 Learning Vim Command.
 
 7. [Linux Tutorial](https://www.youtube.com/watch?v=BMGixkvJ-6w)<br>
-Linus Tutorial on Youtube. I think it's pretty fun to learn linux here.
+Linux Tutorial on Youtube. I think it's pretty fun to learn linux here.
+
+8. [Add Extra Virtual Disk](https://doit.vlsm.org/015.html)<br>
+Tutorial How to add Virtual Disk from OS Course.
+
+9. [Linux Crash Course - the /etc/ftsab file](https://www.youtube.com/watch?v=A7xH74o6kY0)<br>
+It Explain about /etc/ftsab file in Week 03 Assignment.
+
+10. [Silberschatz 10th Edition](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)<br>
+Silberschatz 10th Edition links.
 

@@ -22,4 +22,10 @@ ZCZC W02 60 Reading Silberschatz
 ZCZC W02 100 L02 Class 2 Week 2
 ZCZC W02 40 L05 Quiz Preparation including reading Powerpoint
 ZCZC W02 20 L05 Quiz 1 Week 2
-ZCZC W02 180 L11 Doing Assignment #02
+ZCZC W02 180 L12 Doing Assignment #02
+ZCZC W03 100 L02 Class 1 Week 3
+ZCZC W03 100 L02 Class 2 Week 3
+ZCZC W03 180 L13 Doing Assignment #03
+ZCZC W03 40 L05 Quiz Preparation including reading Powerpoint
+ZCZC W03 90 L06 Reading Silberschatz
+ZCZC W03 80 L05 PopQuiz Week 03
