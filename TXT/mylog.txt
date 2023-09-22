@@ -29,3 +29,4 @@ ZCZC W03 180 L13 Doing Assignment #03
 ZCZC W03 40 L05 Quiz Preparation including reading Powerpoint
 ZCZC W03 90 L06 Reading Silberschatz
 ZCZC W03 80 L05 PopQuiz Week 03
+ZCZC W03 60 L05 Doing Pop Quiz Week 03
