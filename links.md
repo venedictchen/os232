@@ -34,3 +34,8 @@ It Explain about /etc/ftsab file in Week 03 Assignment.
 10. [Silberschatz 10th Edition](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)<br>
 Silberschatz 10th Edition links.
 
+11. [Run and Compile C in Linux](https://www.youtube.com/watch?v=oLjN6jAg-sY)<br>
+Explaining about how to run and compile C in Linux.
+
+12. [Introduction To Linux Full Course For Beginners](https://www.youtube.com/watch?v=sWbUDq4S6Y8)<br>
+Full Linux Course from CLI to Network Operations.
