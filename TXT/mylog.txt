@@ -14,11 +14,11 @@ ZCZC W01 60 L11 Installing Debian
 ZCZC W01 100 L02 Class 2 Week 1
 ZCZC W01 180 L11 Doing Assignment #01
 ZCZC W01 10 L04 Updating Github Page
-ZCZC W01 120 Reading Silberschatz
+ZCZC W01 120 L06 Reading Silberschatz
 ZCZC W01 40 L05 Quiz Preparation including reading Powerpoint
 ZCZC W01 15 L05 Quiz 1 Week 1
 ZCZC W02 100 L02 Class 1 Week 2
-ZCZC W02 60 Reading Silberschatz
+ZCZC W02 60 L06 Reading Silberschatz
 ZCZC W02 100 L02 Class 2 Week 2
 ZCZC W02 40 L05 Quiz Preparation including reading Powerpoint
 ZCZC W02 20 L05 Quiz 1 Week 2
@@ -35,3 +35,8 @@ ZCZC W04 90 L06 Reading Silberschatz
 ZCZC W04 60 L14 Doing Assignment #04
 ZCZC W04 60 L70 Studying for other courses
 ZCZC W04 15 L05 Fixing Pop Quiz
+ZCZC W05 100 L02 Class 1 Week 5
+ZCZC W05 90 L06 Reading Silberschatz
+ZCZC W05 40 L05 Quiz Preparation including reading Powerpoint
+ZCZC W05 15 L05 Quiz 1 Week 5
+ZCZC W05 120 L15 Doing Assignment #05

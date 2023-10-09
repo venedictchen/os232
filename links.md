@@ -39,3 +39,13 @@ Explaining about how to run and compile C in Linux.
 
 12. [Introduction To Linux Full Course For Beginners](https://www.youtube.com/watch?v=sWbUDq4S6Y8)<br>
 Full Linux Course from CLI to Network Operations.
+
+13. [C Programming Tutorial](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
+C Programming Tutorial for Beginners in 4 hours.
+
+14. [What is Tar, Gzip, and Gunzip](https://www.youtube.com/watch?v=41724pZdIx0)<br>
+Explaining What is Tar, Gzip, and Gunzip and how to use them in Linux.
+
+15. [Mastering Linux Aliases](https://www.youtube.com/watch?v=YdXxYxeMuos)<br>
+Boost your productivity with powerful command shortcuts.
+
