@@ -40,3 +40,8 @@ ZCZC W05 90 L06 Reading Silberschatz
 ZCZC W05 40 L05 Quiz Preparation including reading Powerpoint
 ZCZC W05 15 L05 Quiz 1 Week 5
 ZCZC W05 120 L15 Doing Assignment #05
+ZCZC W06 90 L06 Reading Silberchatz
+ZCZC W06 100 L02 Class 1 Week 6
+ZCZC W06 100 L02 Class 2 Week 6
+ZCZC W06 60 L16 Doing Assignment #06
+ZCZC W06 60 L05 Finish Pop Quiz Week 06

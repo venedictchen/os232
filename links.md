@@ -49,3 +49,11 @@ Explaining What is Tar, Gzip, and Gunzip and how to use them in Linux.
 15. [Mastering Linux Aliases](https://www.youtube.com/watch?v=YdXxYxeMuos)<br>
 Boost your productivity with powerful command shortcuts.
 
+16. [Fork System Tutorial](https://www.youtube.com/watch?v=xVSPv-9x3gk)<br>
+Tutorial fork.
+
+17. [Sistem Operasi Fork](https://www.youtube.com/watch?v=mH0DCrUlWRQ)<br>
+Explaining about fork function.
+
+18. [The fork function in C](https://www.youtube.com/watch?v=cex9XrZCU14)<br>
+Explaining fork function in C.
