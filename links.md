@@ -57,3 +57,18 @@ Explaining about fork function.
 
 18. [The fork function in C](https://www.youtube.com/watch?v=cex9XrZCU14)<br>
 Explaining fork function in C.
+
+19. [Deadlock in Operating System GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY)<br>
+Complete Video in 4 minutes to explain Deadlock.
+
+20. [4 Conditions of Deadlock](https://www.youtube.com/watch?v=UVo9mGARkhQ)<br>
+Video about Deadlock Handling and Process Management.
+
+21. [Semaphores Video](https://www.youtube.com/watch?v=XDIOC2EY5JE)<br>
+Explaining about Semaphores.
+
+22. [Paging in Operating System](https://www.youtube.com/watch?v=pJ6qrCB8pDw)<br>
+Video that explain Paging in Operating Systems.
+
+23. [FIFO Page Replacement Algorithm in Operating System](https://www.youtube.com/watch?v=ET43MRKRuYM)<br>
+Algorithm FIFO video with 2 examples.

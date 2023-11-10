@@ -45,3 +45,7 @@ ZCZC W06 100 L02 Class 1 Week 6
 ZCZC W06 100 L02 Class 2 Week 6
 ZCZC W06 60 L16 Doing Assignment #06
 ZCZC W06 60 L05 Finish Pop Quiz Week 06
+ZCZC W07 90 L06 Reading Silberschatz
+ZCZC W07 100 L02 Class 1 Week 7
+ZCZC W07 60 L17 Doing Assignment #07
+ZCZC W07 60 L05 Finish Pop Quiz WEEK 07
