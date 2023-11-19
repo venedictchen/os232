@@ -49,3 +49,8 @@ ZCZC W07 90 L06 Reading Silberschatz
 ZCZC W07 100 L02 Class 1 Week 7
 ZCZC W07 60 L17 Doing Assignment #07
 ZCZC W07 60 L05 Finish Pop Quiz WEEK 07
+ZCZC W08 90 L06 Reading Silberschatz
+ZCZC W08 40 L05 Quiz Preparation including reading Powerpoint
+ZCZC W08 20 L05 Quiz 1 Week 8
+ZCZC W08 240 L18 Doing Assignment #08
+ZCZC W08 30 L05 Doing Pop Quiz Week 08

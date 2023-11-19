@@ -72,3 +72,12 @@ Video that explain Paging in Operating Systems.
 
 23. [FIFO Page Replacement Algorithm in Operating System](https://www.youtube.com/watch?v=ET43MRKRuYM)<br>
 Algorithm FIFO video with 2 examples.
+
+24. [How to Build Linux From Scratch](https://www.youtube.com/watch?v=VIQVv0nwNpw&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=3)<br>
+Helpful Video to make Linux From Scratch by Chapter.
+
+25. [Build LFS Linux From Scratch tutorial part one](https://www.youtube.com/watch?v=mnlPUjd7LwQ&t=4099s)<br>
+Other Video that wrapped chapters into one video.
+
+26. [Build LFS Linuz From Scratch tutorial part two](https://www.youtube.com/watch?v=NdW4Z8W8yaM)<br>
+Other Video that wrapped chapters into one video part 2.
